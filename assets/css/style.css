@@ -1,0 +1,191 @@
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            body {
+                background: #f1f1f1;
+            }
+            /*-----------------------------------------------Header*/
+            
+            .heading {
+                text-transform: uppercase;
+            }
+            /*-----------------------------------------------Navbar*/
+            
+            .bg-bar {
+                width: 100px;
+                height: 100%;
+                position: fixed;
+                background-color: #0b0c10;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .sidebar {
+                margin: 40px 0 40px 0;
+                padding: 40px 0 40px 0;
+            }
+            
+            .sidebar a {
+                display: block;
+                text-align: center;
+                text-transform: uppercase;
+                text-decoration: none;
+                margin: 20px 0 20px 0;
+                padding: 20px 0 20px 0;
+            }
+            
+            .sidebar i {
+                display: block;
+                font-size: 30px;
+            }
+            
+            .sidebar span {
+                display: block;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 5px 0 5px 0;
+                padding: 5px 0 5px 0;
+            }
+            /*-----------------------------------------------feetbar*/
+            
+            footer {
+                margin: 0;
+                padding: 0;
+            }
+            
+            .feet-bar {
+                margin: 10px;
+                padding: 0px;
+            }
+            
+            .feet-bar a {
+                display: inline;
+                text-decoration: none;
+                margin: 10px;
+                padding: 0px;
+            }
+            
+            .feet-bar i {
+                font-size: 20px;
+                margin: 0;
+                padding: 10px;
+                border-radius: 50%;
+                background: black;
+            }
+            /*-----------------------------------------------sections*/
+            
+            .subhead,
+            .skill-head,
+            .contact-head {
+                color: #66fcf1;
+            }
+            
+            .subhead {
+                margin: 20px;
+                padding: 20px;
+            }
+            
+            .sub1 {
+                width: 100%;
+                margin: 40px 10px 10px 10px;
+                padding: 40px 10px 10px 10px;
+            }
+            
+            .images {
+                width: 100%;
+                min-height: auto;
+                border-radius: 200px;
+                position: relative;
+                margin: 20px;
+                left: -60px;
+                border: 2px solid #1f2833;
+            }
+            /*-----------------------------------------------contacts*/
+            
+            .contact-head {
+                margin: 40px;
+                padding: 40px;
+            }
+            
+            .contact-form {
+                margin: 40px;
+                padding: 0px;
+            }
+            
+            .form-group {
+                margin: 40px;
+                padding: 0px;
+            }
+            /*-----------------------------------------------resume*/
+            
+            .resume-sub {
+                margin: 0;
+                padding: 0;
+            }
+            
+            .skill-head {
+                margin: 20px 0 20px 0;
+                padding: 0px;
+            }
+            
+            .sub-skill {
+                margin: 0;
+                padding: 0;
+            }
+            /*-------------------------------------------------progressbar*/
+            
+            .progress {
+                width: 100%;
+                height: 40px;
+                margin: 20px 10px 20px 10px;
+                padding: 0;
+                border-radius: 15px;
+                background-color: #c5c6c7;
+            }
+            
+            .progress-bar {
+                height: 40px;
+                width: 100%;
+                border-radius: 15px;
+                background-color: #45a29e;
+            }
+            
+            .progress-bar span {
+                color: #c5c6c7;
+                font-size: 13px;
+                font-weight: 600;
+            }
+            /*------------------------------------------------------timeline*/
+            
+            .timeline {
+                padding: 20px;
+                position: relative;
+                color: #c5c6c7;
+                border-left: 2px solid;
+            }
+            
+            .timeline h5 {
+                color: #45a29e;
+            }
+            
+            .timeline p {
+                padding: 0;
+                margin: 0;
+            }
+            
+            .timeline:after {
+                width: 12px;
+                height: 12px;
+                display: block;
+                top: 1.6em;
+                position: absolute;
+                left: -6.5px;
+                border-radius: 50%;
+                content: '';
+                background: #c5c6c7;
+            }
+            /*------------------------------------------------------media queries*/
+            
+            @media(max-width:)
