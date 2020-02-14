@@ -1,4 +1,4 @@
-Project Name: Portfolia after I graduate
+Project Name: Portfolio after I graduate
 
 Website link: 
 
