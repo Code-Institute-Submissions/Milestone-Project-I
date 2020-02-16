@@ -22,6 +22,14 @@
                 padding: 0;
             }
             
+            .active {
+                border-style: outset;
+                border-bottom-right-radius: 15px;
+                border-top: none;
+                border-width: 1px;
+                box-shadow: 2px 2px #8cd673;
+            }
+            
             .sidebar {
                 margin: 40px 0 40px 0;
                 padding: 40px 0 40px 0;
