@@ -18,7 +18,7 @@
                 height: 100%;
                 position: fixed;
                 background-color: #0b0c10;
-                margin: 0;
+                margin-right: 30px;
                 padding: 0;
             }
             
@@ -82,25 +82,32 @@
                 color: #66fcf1;
             }
             
-            .subhead {
-                margin: 20px;
-                padding: 20px;
-            }
-            
             .sub1 {
-                width: 100%;
-                margin: 40px 10px 10px 10px;
-                padding: 40px 10px 10px 10px;
+                margin-top: 80px;
+                padding: 0;
             }
             
-            .images {
-                width: 100%;
-                min-height: auto;
-                border-radius: 200px;
-                position: relative;
-                margin: 20px;
-                left: -60px;
-                border: 2px solid #1f2833;
+            .subhead {
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            .details {
+                margin-top: 50px;
+                padding: 0;
+            }
+            
+            .personal-info {
+                margin-left: 20px;
+                padding-left: 10px;
+            }
+            
+            img {
+                width: 80%;
+                margin-top: 60px;
+                padding: 0;
+                border: 2px solid #0b0c10;
+                border-radius: 10px;
             }
             /*-----------------------------------------------contacts*/
             
