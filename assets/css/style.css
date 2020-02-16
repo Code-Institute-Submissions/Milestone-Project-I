@@ -101,6 +101,7 @@
                 transition: 0.9s;
                 border: 1px solid;
                 border-radius: 30px;
+                background-color: #8cd673;
             }
             /*-----------------------------------------------Colors*/
             
@@ -186,8 +187,8 @@
             
             .btn {
                 font-size: 22px;
-                color: #d899a5;
-                background: #8cd673;
+                color: #f4f4f8;
+                background: #d11141;
                 border-color: #c5edb8;
                 border-radius: 10px;
             }
