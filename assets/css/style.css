@@ -4,12 +4,13 @@
             }
             
             body {
-                background: #f1f1f1;
+                background: #a8e6cf;
             }
             /*-----------------------------------------------Header*/
             
             .heading {
                 text-transform: uppercase;
+                color: #ff8b94;
             }
             /*-----------------------------------------------Navbar*/
             
@@ -74,13 +75,21 @@
                 border-radius: 50%;
                 background: black;
             }
-            /*-----------------------------------------------sections*/
+            /*-----------------------------------------------Colors*/
             
             .subhead,
             .skill-head,
             .contact-head {
-                color: #66fcf1;
+                color: #d11141;
             }
+            
+            .details h5,
+            .timeline h5,
+            .form-group h5,
+            .sub-skill h5 {
+                color: #d899a5;
+            }
+            /*-----------------------------------------------sections*/
             
             .sub1 {
                 margin-top: 80px;
