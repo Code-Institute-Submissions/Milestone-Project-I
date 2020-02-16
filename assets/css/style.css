@@ -83,10 +83,9 @@
                 color: #d11141;
             }
             
-            .details h5,
-            .timeline h5,
-            .form-group h5,
-            .sub-skill h5 {
+            .details h4,
+            .timeline h4,
+            .contact-head h4 {
                 color: #d899a5;
             }
             /*-----------------------------------------------sections*/
