@@ -10,7 +10,6 @@
             
             .heading {
                 text-transform: uppercase;
-                color: #ff8b94;
             }
             /*-----------------------------------------------Navbar*/
             
@@ -77,13 +76,21 @@
             }
             /*-----------------------------------------------Colors*/
             
+            .sidebar a {
+                color: #c5edb8;
+            }
+            
+            .heading {
+                color: #ff8b94;
+            }
+            
             .subhead,
             .skill-head,
             .contact-head {
                 color: #d11141;
             }
             
-            .details h4,
+            .details,
             .timeline h4,
             .contact-head h4 {
                 color: #d899a5;
