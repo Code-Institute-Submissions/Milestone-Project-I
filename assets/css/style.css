@@ -258,4 +258,20 @@
             }
             /*------------------------------------------------------media queries*/
             
-            @media(max-width:)
+            @media(max-width: 768px) {
+                .sidebar {
+                    margin-left: 10px;
+                }
+                .heading {
+                    margin-left: 100px;
+                }
+                section {
+                    margin-left: 100px;
+                    margin-bottom: 20px;
+                    margin-right: 20px;
+                    padding: 0;
+                }
+                .subhead {
+                    margin-left: -40px;
+                }
+            }
