@@ -37,9 +37,9 @@ I used Vistual Studio Code (VS Code). I used it beacause it easier and faster to
 * If you want to run it locally then download or copied above files. Mkae sure you save it in new folder where there is no similar name files, like index.html or style.css. I recommend to use vs code. 
 
 ### Credits
-* Content
+* Content:
 Some idea from mini projects : https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4
-* Media
+* Media:
 logo picture from my linkedin profile picture : https://www.linkedin.com/in/aman-gurung-2a722050/
-* Acknowledgements
+* Acknowledgements:
 I really like the side bar navigation from this website : https://careclimatechange.org/
