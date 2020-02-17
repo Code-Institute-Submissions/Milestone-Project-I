@@ -280,7 +280,7 @@
                 .subhead {
                     margin-left: -40px;
                 }
-                footer {
-                    padding-top: 20px;
+                .btn {
+                    font-size: 18px;
                 }
             }
