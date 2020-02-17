@@ -1,65 +1,45 @@
-#Milestone Project 1 (Portfolio)
+### Milestone Project 1 (Portfolio)
 
 Website : https://amantamu.github.io/Milestone-Project-I/
 Github : https://github.com/amantamu/Milestone-Project-I
 
 This is essentially reflects what it will be after I finish my Full Stack Web Development course. The project is simple and easy to read. 
 
-#UX
+### UX
 The project is portfolio website which aim is to have simple layout and easy to navigate. Easy to read whole website with a look.
-*As to make simple and easy to read, I put text with icon.
-*You can find which part of section you are in.
-*
+* As to make simple and easy to read, I put text with icon.
+* To find which page you are in, I have to put outline in the navigation bar.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+You can find wireframes of the website in above assest folder.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+### Features
+* I put hover effect on the nav bar where the bordor and color changes.
+* The footer icon color changes
+* Nav bar is fixed to left always.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+I wanted to have nav bar left at desktop view and bottom in mobile view. I also wanted to have welcome page or a pop up page, when you visit website there is a greeting to user. 
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+### Technologies Used
+* HTML : It is used for a structure of web page.
+* CSS : It is used for a decoration of web page.
+* Bootstrap : It is used for responsive layout of web page.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+### Testing
+The testing part is simple. Try clicking/hover on nav bar icons and footer. Download icon takes you to the new tab and opens a cv document. You can see if the website is responsive or not. Try changing screen view size from desktop to mobile view.
+* Go to contact page and try summiting with empthy inputs. 
+* Try to summit with invalid inputs.
+* Now try to summit with valid inputs.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### Deployment
+I used Vistual Studio Code (VS Code). I used it beacause it easier and faster to run and there are extension that helps you with the code. Using git was easy in VS code and it shows you how many commits you have not done. I did not like the cloud base platform, it takes few minute to open up. I used git to save and control and github to deploy my live web page. 
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+* If you want to run it locally then download or copied above files. Mkae sure you save it in new folder where there is no similar name files, like index.html or style.css. I recommend to use vs code. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+### Credits
+* Content
+Some idea from mini projects : https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4
+* Media
+logo picture from my linkedin profile picture : https://www.linkedin.com/in/aman-gurung-2a722050/
+* Acknowledgements
+I really like the side bar navigation from this website : https://careclimatechange.org/
