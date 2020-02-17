@@ -284,3 +284,9 @@
                     font-size: 18px;
                 }
             }
+            
+            @media(max-width: 320px) {
+                .form-control {
+                    width: 150%;
+                }
+            }
