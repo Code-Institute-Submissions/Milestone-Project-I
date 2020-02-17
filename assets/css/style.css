@@ -283,6 +283,9 @@
                 .btn {
                     font-size: 18px;
                 }
+                .contact-form {
+                    margin: 0;
+                }
             }
             
             @media(max-width: 320px) {
