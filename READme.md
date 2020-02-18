@@ -5,6 +5,9 @@ Github : https://github.com/amantamu/Milestone-Project-I
 
 This is essentially reflects what it will be after I finish my Full Stack Web Development course. The project is simple and easy to read. 
 
+### User Story
+My main part of the project was to be simple and readable and responsive. Especially for mobile devices, so I went for like mobile devices layout. After my research, I got to know that most mobile devices had icons and navigation bar. I have use icons and navigation bar. I have used icons for title/heading, section, sub-section and footer. My main mobile devices like layout to me was navigation bar. Most mobile devices layout have navbar or menubar somewhere at the screen. And it is fixed in same place. When you change screen size(mobile size), you can always see nagivation/menu bar at the left side of the screen. You can try changing screen size and see how it goes. Hope you like it!!!
+
 ### UX
 The project is portfolio website which aim is to have simple layout and easy to navigate. Easy to read whole website with a look.
 * As to make simple and easy to read, I put text with icon.
